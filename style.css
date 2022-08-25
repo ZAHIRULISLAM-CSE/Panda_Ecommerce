@@ -1,0 +1,80 @@
+
+.abc{
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.nav-link{
+    color:green;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+.orange_bg{
+    background-color: #ffeae8;
+    padding: 30px 50px;
+   
+}
+.down{
+    padding-top: 50px;
+}
+.middle{
+    padding-top: 50px;
+    border-radius: 20px;
+}
+.watch{
+    background-color: orange;
+}
+.pad{
+    padding-top: 30px;
+    border-radius: 20px;
+}
+.watch1{
+    height: 80px;
+}
+.watch2{
+    background-color: violet;
+}
+.watch3{
+    background-color: blue;
+}
+.xyz{
+    column-gap: 10px;
+}
+.shoes{
+    padding-top: 80px;
+    padding-left: 150px;
+}
+.space{
+    column-gap: 25px;
+}
+.a1{
+        /* Add shadows to create the "card" effect */
+        box-shadow:  4px 4px 8px 4px rgba(0,0,0,0.2);
+        border-radius: 5px;
+}
+.a2{
+    /* Add shadows to create the "card" effect */
+    box-shadow:  4px 4px 8px 4px rgba(0,0,0,0.2);
+    border-radius: 5px;
+}
+
+.a3{
+    /* Add shadows to create the "card" effect */
+    box-shadow:  4px 4px 8px 4px rgba(0,0,0,0.2);
+    border-radius: 5px;
+}  
+
+.footer{
+    padding-top: 80px;
+   
+}
+.color{
+    background-color: pink;
+    height: 300px;
+}
+.last{
+    padding-top: 80px;
+    text-align: center;
+}
+input:hover{
+    border: red;
+}
